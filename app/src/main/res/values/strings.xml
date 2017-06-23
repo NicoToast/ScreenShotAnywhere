@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ShotAnywhere</string>
+    <string name="main_bt_shot">Start to shot</string>
+
+    <string name="permission_notice">You need to give some permissions to continue</string>
+    <string name="permission_warning">截屏需要获取SD卡读写权限，没有权限将无法工作！</string>
+    <string name="notification_button">截屏</string>
+    <string name="notify_title_shot">截屏</string>
+    <string name="notify_text_shot">截屏已准备完毕</string>
+    <string name="notify_ticker_shot">TICKER_SHOT</string>
+    <string name="permission_media_error">截屏需要授予权限</string>
+
+</resources>
